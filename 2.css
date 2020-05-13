@@ -1,0 +1,154 @@
+body{
+  text-align: center;
+  background-color: #fce2db;
+}
+
+h1
+{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  color: purple;
+  font-family: 'Oswald', sans-serif;
+  font-size: 5rem;
+}
+
+.ready{
+  visibility: hidden;
+  top:700px;
+  right:200px;
+  position: absolute;
+}
+
+.toss{
+  position: absolute;
+  right:150px;
+  top:150px;
+  visibility: hidden;
+
+
+}
+
+.side
+{
+  color:green;
+  position:absolute;
+  left:1300px;
+  top:400px;
+  font-size: 3rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+.one{
+  position :absolute;
+  top:300px;
+  left:625px;
+  border:solid 5px;
+  height:200px;
+  width:200px;
+  border-right: solid 2.5px;
+  border-bottom: solid 2.5px;
+
+}
+
+
+.two{
+  position :absolute;
+  top:300px;
+  left:825px;
+  height:200px;
+  width:200px;
+  border:solid 5px;
+  border-right: solid 2.5px;
+  border-left: solid 2.5px;
+  border-bottom: solid 2.5px;
+}
+
+.three
+{
+  position :absolute;
+  top:300px;
+  left:1025px;
+  height:200px;
+  width:200px;
+  border:solid 5px;
+  border-left: solid 2.5px;
+  border-bottom: solid 2.5px;
+
+}
+
+.four{
+  position :absolute;
+  top:500px;
+  left:625px;
+  border:solid 5px;
+  height:200px;
+  width:200px;
+  border-right: solid 2.5px;
+  border-top: solid 2.5px;
+  border-bottom: solid 2.5px;
+}
+
+.five{
+  position :absolute;
+  top:500px;
+  left:825px;
+  height:200px;
+  width:200px;
+  border:solid 5px;
+  border-right: solid 2.5px;
+  border-left: solid 2.5px;
+  border-top: solid 2.5px;
+  border-bottom: solid 2.5px;
+}
+
+.six
+{
+  position :absolute;
+  top:500px;
+  left:1025px;
+  height:200px;
+  width:200px;
+  border:solid 5px;
+  border-left: solid 2.5px;
+  border-top: solid 2.5px;
+  border-bottom: solid 2.5px;
+}
+
+.seven
+{  position :absolute;
+  top:700px;
+  left:625px;
+  border:solid 5px;
+  height:200px;
+  width:200px;
+  border-right: solid 2.5px;
+  border-top: solid 2.5px;
+
+}
+
+.eight{
+
+  position :absolute;
+  top:700px;
+  left:825px;
+  height:200px;
+  width:200px;
+  border:solid 5px;
+  border-right: solid 2.5px;
+  border-left: solid 2.5px;
+  border-top: solid 2.5px;
+
+
+}
+
+.nine{
+  position :absolute;
+  top:700px;
+  left:1025px;
+  height:200px;
+  width:200px;
+  border:solid 5px;
+  border-left: solid 2.5px;
+  border-top: solid 2.5px;
+
+}
